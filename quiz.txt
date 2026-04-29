@@ -1,0 +1,60 @@
+What is 2+2?
+A. 3
+B. 4
+C. 5
+D. 6
+B
+Which is a programming language?
+A. HTML
+B. CPU
+C. RAM
+D. Keyboard
+A
+What is the capital of India?
+A. Mumbai
+B. Chennai
+C. Delhi
+D. Kolkata
+C
+Which number is even?
+A. 3
+B. 7
+C. 9
+D. 8
+D
+What does CPU stand for?
+A. Central Process Unit
+B. Central Processing Unit
+C. Computer Personal Unit
+D. Control Processing Unit
+B
+Which symbol is used for addition?
+A. -
+B. *
+C. +
+D. /
+C
+Which is an input device?
+A. Monitor
+B. Printer
+C. Keyboard
+D. Speaker
+C
+What is 5 * 3?
+A. 8
+B. 10
+C. 15
+D. 20
+C
+Which is a storage device?
+A. Mouse
+B. Hard Disk
+C. Monitor
+D. CPU
+B
+Which language is used for C++ programs?
+A. English
+B. C++
+C. Java
+D. Python
+B
